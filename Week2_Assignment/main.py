@@ -35,4 +35,3 @@ print('QQQ' + space + str(percentQQQ) + '%')
 print('EEM' + space + str(percentEEM) + '%')
 print('VXX' + space + str(percentVXX) + '%')
 print('TOTAL AMOUNT INVESTED: $' + str(totalInvested))
-# hello world
